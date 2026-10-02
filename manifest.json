@@ -3,5 +3,10 @@
   "reciterId": "osama",
   "name": "الشيخ أسامة",
   "teacherMode": false,
-  "surahs": {}
+  "surahs": {
+    "93": {
+      "from": 1,
+      "to": 11
+    }
+  }
 }
