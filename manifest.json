@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "reciterId": "osama",
   "name": "الشيخ أسامة",
-  "teacherMode": false,
+  "teacherMode": true,
   "surahs": {
     "93": {
       "from": 1,
